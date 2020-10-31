@@ -2,7 +2,7 @@
     "name": "douggonsouza/purchases",
     "description": "Gerenciamento de compras",
     "type": "library",
-    "license": "BSD-3-Clause License",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Douglas Gonçalves de Souza",
